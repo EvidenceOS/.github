@@ -91,7 +91,7 @@ EvidenceOS operates through four legal entities with distinct roles — separati
 |--------|------|-------------|
 | **EvidenceOS Inc.** | Product company, IP holder | US (Delaware) |
 | **EvidenceOS OÜ** | EU operations, CE Mark pathway | Estonia |
-| **CEAIH** | Independent evidence production institute, grant applicant (NIH, Gates, Wellcome) | US 501(c)(3) |
+| **CEAIH** | Independent evidence production institute, grant applicant (NIH, Gates, Wellcome) | US nonprofit |
 | **PAATHI** | Open-source stewardship, LMIC access, continental AI governance | Rwanda (CLG) |
 
 **Data policy:** This organization contains NO real patient data. All included data is synthetically generated. Real patient data is handled in separate, sovereign environments compliant with HIPAA, GDPR, and national data laws. See [DATA_POLICY.md](https://github.com/EvidenceOS/evidenceos-research/blob/main/DATA_POLICY.md) for details.
